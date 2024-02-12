@@ -6,9 +6,14 @@
     },
     "channels": [
         {
+            "name": "MCEU TV",
+            "slug": "MCEUv",
+            "url": "https://ok.ru/live/3980522364458"
+        },
+        {
             "name": "TMB TV",
             "slug": "tmbv",
-            "url": "https://ok.ru/live/3980522364458"
+            "url": "https://oneotv.online/live/tr-mc-eu-live-tv"
         },
         {
             "name": "24 TV",
