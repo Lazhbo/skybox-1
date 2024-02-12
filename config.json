@@ -6,13 +6,13 @@
     },
     "channels": [
         {
-            "name": "Tmb TV",
+            "name": "TMB TV",
             "slug": "tmbv",
-            "url": "https://ok.ru/video/3980522364458"
+            "url": "https://ok.ru/live/3980522364458"
         },
         {
             "name": "Van TV",
-            "slug": "vantv",
+            "slug": "vantvnet",
             "url": "https://www.twitch.tv/vantvnet"
         },
         {
