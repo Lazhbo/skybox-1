@@ -6,6 +6,11 @@
     },
     "channels": [
         {
+            "name": "Van TV",
+            "slug": "vantv",
+            "url": "https://www.twitch.tv/vantvnet"
+        },
+        {
             "name": "24 TV",
             "slug": "24tv",
             "url": "https://www.youtube.com/@YirmidortTV/live"
