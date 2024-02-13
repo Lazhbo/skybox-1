@@ -6,6 +6,11 @@
     },
     "channels": [
         {
+            "name": "vantvnet",
+            "slug": "vantv",
+            "url": "https://www.twitch.tv/vantvnet"
+        },
+        {
             "name": "Dadas TV",
             "slug": "dadastv",
             "url": "https://dadastv.net/default.asp"
