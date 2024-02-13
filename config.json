@@ -8,12 +8,12 @@
         {
             "name": "Dadas TV",
             "slug": "dadastv",
-            "url": "https://dadastv.net/canliyayin.html"
+            "url": "https://dadastv.net/canliyayin"
         },
         {
             "name": "Mceu TV",
-            "slug": "mceutv",
-            "url": "https://oneotv.online/live/tr-mc-eu-live-tv"
+            "slug": "tr-mc-eu",
+            "url": "https://oneotv.online/live/tr-mc-eu-live"
         },
         {
             "name": "TMB TV",
