@@ -6,14 +6,14 @@
     },
     "channels": [
         {
-            "name": "vantvnet",
-            "slug": "vantv",
-            "url": "https://www.twitch.tv/vantvnet"
+            "name": "un TV",
+            "slug": "untv",
+            "url": "https://www.canlitv.day/un-tv-konya"
         },
         {
-            "name": "TMB TV",
-            "slug": "tmbv",
-            "url": "https://ok.ru/live/3980522364458"
+            "name": "un TV",
+            "slug": "untv",
+            "url": "https://www.canlitv.day/un-tv-konya"
         },
         {
             "name": "24 TV",
@@ -494,6 +494,11 @@
             "name": "Aşk-ı Neva",
             "slug": "askineva",
             "url": "https://www.youtube.com/@askineva/live"
+        },
+        {
+            "name": "Van TV",
+            "slug": "vantv",
+            "url": "https://www.twitch.tv/vantvnet"
         },
         {
             "name": "Huzur Pınarı TV",
