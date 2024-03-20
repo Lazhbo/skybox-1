@@ -6,6 +6,11 @@
     },
     "channels": [
         {
+            "name": "trses TV",
+            "slug": "trsestv",
+            "url": "https://www.trsestv.com/canli-yayin"
+        },
+        {
             "name": "un TV",
             "slug": "untv",
             "url": "https://www.canlitv.day/un-tv-konya"
@@ -13,7 +18,7 @@
         {
             "name": "erba TV",
             "slug": "erbatv",
-            "url": "https://www.canlitv.day/embed/?id=881"
+            "url": "https://www.canlitv.day"
         },
         {
             "name": "24 TV",
