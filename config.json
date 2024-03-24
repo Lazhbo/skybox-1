@@ -6,6 +6,11 @@
     },
     "channels": [
         {
+            "name": "MEDYA HABER TV",
+            "slug": "medyahaber",
+            "url": "https://www.youtube.com/@MedyaHaberTV/live"
+        },
+        {
             "name": "ibrahimlive TV",
             "slug": "ibrahimlive",
             "url": "https://www.youtube.com/@ibrahimlive/live"
@@ -24,16 +29,6 @@
             "name": "YİLMAZ GÜNEY TV",
             "slug": "yilmazgüney",
             "url": "https://www.youtube.com/@guneyfilmcilik/live"
-        },
-        {
-            "name": "Medya Haber TV",
-            "slug": "medyahaberTV",
-            "url": "https://www.youtube.com/@mhhabertv/live"
-        },
-        {
-            "name": "İBRAHİM TATİSES TV",
-            "slug": "türkfilmleri,
-            "url": "https://www.youtube.com/@TürkFilmleri/live"
         },
         {
             "name": "24 TV",
