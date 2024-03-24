@@ -6,6 +6,11 @@
     },
     "channels": [
         {
+            "name": "KARAR TV TV",
+            "slug": "karartv",
+            "url": "https://www.youtube.com/@KararTV/live"
+        },
+        {
             "name": "YESİLCAM 1 TV",
             "slug": "lavfilm",
             "url": "https://www.youtube.com/@lavfilm/live"
