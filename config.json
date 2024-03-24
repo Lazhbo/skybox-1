@@ -6,6 +6,26 @@
     },
     "channels": [
         {
+            "name": "ibrahimlive TV",
+            "slug": "ibrahimlive",
+            "url": "https://www.youtube.com/@ibrahimlive/live"
+        },
+        {
+            "name": "Enstrümantal TV",
+            "slug": "antikmısırpiramitler",
+            "url": "https://www.youtube.com/@antikmısırpiramitler/live"
+        },
+        {
+            "name": "Enstrümantal TV",
+            "slug": "GüncelPaylaşımlar",
+            "url": "https://www.youtube.com/@GüncelPaylaşımlarTV/live"
+        },
+        {
+            "name": "YİLMAZ GÜNEY TV",
+            "slug": "yilmazgüney",
+            "url": "https://www.youtube.com/@KaradenizAkustik/live"
+        },
+        {
             "name": "YİLMAZ GÜNEY TV",
             "slug": "yilmazgüney",
             "url": "https://www.youtube.com/@yilmazgüney/live"
@@ -13,7 +33,7 @@
         {
             "name": "Medya Haber TV",
             "slug": "medyahaberTV",
-            "url": "https://www.youtube.com/@medyahaberTV/live"
+            "url": "https://www.youtube.com/@medyahaber/live"
         },
         {
             "name": "İBRAHİM TATİSES TV",
