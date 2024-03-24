@@ -6,19 +6,19 @@
     },
     "channels": [
         {
-            "name": "trses TV",
-            "slug": "trsestv",
-            "url": "https://www.trsestv.com/canli-yayin"
+            "name": "YİLMAZ GÜNEY TV",
+            "slug": "yilmazgüney",
+            "url": "https://www.youtube.com/@yilmazgüney/live"
         },
         {
             "name": "Medya Haber TV",
-            "slug": "MedyaHaberTV",
-            "url": "http://www.canlitv.day/un-tv-konya"
+            "slug": "medyahaberTV",
+            "url": "https://www.youtube.com/@medyahaberTV/live"
         },
         {
-            "name": "erba TV",
-            "slug": "erbatv",
-            "url": "https://www.canlitv.day"
+            "name": "İBRAHİM TATİSES TV",
+            "slug": "ibrahimtatlises,
+            "url": "https://www.youtube.com/@ibrahimtatlises/live"
         },
         {
             "name": "24 TV",
