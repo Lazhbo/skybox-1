@@ -4,7 +4,12 @@
         "bestFolder": "best",
         "masterFolder": ""
     },
-    "channels": [
+    "chan{
+            "name": "YESİLCAM 1 TV",
+            "slug": "lavfilmtv",
+            "url": "https://www.youtube.com/@lavfilm/live"
+        },nels": [
+        
         {
             "name": "YURTTAS TV",
             "slug": "yurttastv",
