@@ -6,6 +6,21 @@
     },
     "channels": [
         {
+            "name": "MEDYA HABER TV",
+            "slug": "medyahabertv",
+            "url": "https://www.youtube.com/@MedyaHaberTV1/live"
+        },
+        {
+            "name": "FLASHHABER TV",
+            "slug": "flashhabertv",
+            "url": "https://www.youtube.com/@flashhabertv/live"
+        },
+        {
+            "name": "KRAL TV",
+            "slug": "kraltv",
+            "url": "https://www.youtube.com/@kralmuzik/live"
+        },
+        {
             "name": "KARAR TV TV",
             "slug": "karartv",
             "url": "https://www.youtube.com/@karartv/live"
