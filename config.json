@@ -22,7 +22,7 @@
         },
         {
             "name": "TOLGASHOW TV",
-            "slug": "25film",
+            "slug": "tolgashowtv",
             "url": "https://www.youtube.com/@25FilmTR/live"
         },
         {
@@ -32,17 +32,17 @@
         },
         {
             "name": "Enstrümantal TV",
-            "slug": "güncelpaylaşımlar",
+            "slug": "enstrumentaltv",
             "url": "https://www.youtube.com/@guncelpaylasimlartv/live"
         },
         {
             "name": "YİLMAZ GÜNEY TV",
-            "slug": "guneyfilmcilik",
-            "url": "https://www.youtube.com/@GuneyFilmcilik/live"
+            "slug": "yilmazgüneytv",
+            "url": "https://www.youtube.com/@guneyfilmcilik/live"
         },
         {
             "name": "İBRAHİM TATLİSES TV",
-            "slug": "turkfilmleri",
+            "slug": "ibrahimtatlisestv",
             "url": "https://www.youtube.com/@turkfilmleri8452/live"
         },
         {
