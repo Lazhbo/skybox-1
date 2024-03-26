@@ -6,6 +6,11 @@
     },
     "channels": [
         {
+            "name": "TURKCEPOP TV",
+            "slug": "turkcepopfm",
+            "url": "https://www.youtube.com/@canliradyodinlefm/live"
+        },
+        {
             "name": "KRALMÜZİK TV",
             "slug": "kralmüzikfm",
             "url": "https://www.youtube.com/@kralmuzik/live"
