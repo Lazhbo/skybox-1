@@ -6,6 +6,11 @@
     },
     "channels": [
         {
+            "name": "KRALMÜZİK TV",
+            "slug": "kralmüzikfm",
+            "url": "https://www.youtube.com/@kralmuzik/live"
+        },
+        {
             "name": "POPMİX TV",
             "slug": "popmixfm",
             "url": "https://www.youtube.com/@radyodinle/live"
