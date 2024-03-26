@@ -6,6 +6,36 @@
     },
     "channels": [
         {
+            "name": "POPMİX TV",
+            "slug": "popmixfm",
+            "url": "https://www.youtube.com/@radyodinle/live"
+        },
+        {
+            "name": "SHOWRADYO",
+            "slug": "showradyo",
+            "url": "https://www.youtube.com/@dinle/live"
+        },
+        {
+            "name": "RADYOVİVA",
+            "slug": "radyoviva",
+            "url": "https://www.youtube.com/@dinle/live"
+        },
+        {
+            "name": "SLOWTURK",
+            "slug": "slowturFM",
+            "url": "https://www.youtube.com/@dinle/live"
+        },
+        {
+            "name": "RADYOARABESK",
+            "slug": "radyoarabesk",
+            "url": "https://www.youtube.com/@radyodinle/live"
+        },
+        {
+            "name": "TIVIBUSPOR TV",
+            "slug": "tıvıbusprtv",
+            "url": "https://www.youtube.com/@TivibuSporTurkTelekom/live"
+        },
+        {
             "name": "MEDYA HABER TV",
             "slug": "medyahabertv",
             "url": "https://www.youtube.com/@MedyaHaberTV1/live"
