@@ -6,6 +6,11 @@
     },
     "channels": [
         {
+            "name": "TELEON TV",
+            "slug": "teleon",
+            "url": "https://ok.ru/video/6863507889672"
+        },
+        {
             "name": "TURKCEPOP TV",
             "slug": "turkcepopfm",
             "url": "https://www.youtube.com/@canliradyodinlefm/live"
