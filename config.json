@@ -6,6 +6,11 @@
     },
     "channels": [
         {
+            "name": "un TV",
+            "slug": "untv",
+            "url": "https://www.canlitv.day/un-tv-konya/live"
+        },
+        {
             "name": "TELEON TV",
             "slug": "teleontv",
             "url": "https://ok.ru/video/6863507889672/live"
