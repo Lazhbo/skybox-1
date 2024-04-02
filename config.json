@@ -7,8 +7,8 @@
     "channels": [
         {
             "name": "TELEON TV",
-            "slug": "teleon",
-            "url": "https://ok.ru/video/6863507889672"
+            "slug": "teleontv",
+            "url": "https://ok.ru/video/6863507889672/live"
         },
         {
             "name": "TURKCEPOP TV",
