@@ -6,6 +6,11 @@
     },
     "channels": [
         {
+            "name": "teleon2 TV",
+            "slug": "teleon2",
+            "url": "https://ok.ru/video/6863507889672"
+        },
+        {
             "name": "teleon1 TV",
             "slug": "teleon1",
             "url": "https://ok.ru/video/6863507889672?fromTime=95146"
