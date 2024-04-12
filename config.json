@@ -6,6 +6,11 @@
     },
     "channels": [
         {
+            "name": "egemusak TV",
+            "slug": "egemusaktv",
+            "url": "https://ok.ru/live/5057272749772"
+        },
+        {
             "name": "teleon2 TV",
             "slug": "teleon2",
             "url": "https://ok.ru/video/6863507889672"
